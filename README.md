@@ -18,4 +18,4 @@
 * Savoir séparer, lors de la résolution d'un problème informatique, les phases d'analyse, de spécification, de réalisation et de tests.
 * Savoir conduire divers types d'analyse : descendante, par cas, récursive ; savoir réutiliser des modèles de solutions.
 * Savoir exploiter les règles sémantiques d'un langage lors de la validation de solutions.
-* Connaître les notions de base de la programmation d'ordre supérieur
+* Connaître les notions de base de la programmation d'ordre supérieur.
